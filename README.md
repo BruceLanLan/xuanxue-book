@@ -249,4 +249,14 @@
 
 **如果这本书对你有启发，欢迎 ⭐ Star 支持**
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=brucelanlan%2Fxuanxue-book&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&legend=top-left" />
+ </picture>
+</a>
+
 </div>
