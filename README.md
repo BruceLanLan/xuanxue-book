@@ -19,30 +19,6 @@
 
 ---
 
-## 新作｜《不可见的亚洲》
-
-<img src="images/不可见的亚洲_图文精装版/cover.png" width="100%" alt="不可见的亚洲：东亚、东南亚与南亚的鬼、灵、护符与灵媒｜图文精装版" />
-
-**《中国古代玄学秘术全书》第二部**，将视线从中国推向东亚、东南亚与南亚。这不是一部“亚洲怪谈大全”，而是一部关于鬼、灵、护符与灵媒的社会史：它们如何与迁徙、土地、劳动、死亡、宗教规范和现代国家交织。
-
-**图文精装版 v3.0** 收录 **40章、约9.9万字**。它从可追溯的档案、民族志、城市争议或历史文本进入，让每章形成“一个现场 → 一个不能被快译的原词 → 一段人与制度的冲突 → 一个尚未有结论的问题”的阅读节奏。从马来西亚的 *jinn*、*hantu* 与拿督公，到泰国的 *phi* 与灵媒城市；从爪哇的 *dukun*、东帝汶的 *lulik*，到日本御灵、韩国巫堂、济州海女与南亚的祖灵和圣墓。
-
-> 本版替换 v2.1 纯文字重写版。它新增 **六张分编扉页、十二张开放许可的档案/馆藏/纪实图像，以及十二张明确标注为“创作性诠释”的章节插图**。档案图和生成图不混用：每张图都保留来源、作者、许可或图像性质说明。
-
-| 阅读方式 | 入口 | 适用场景 |
-|:---|:---|:---|
-| 在线阅读 | [完整Markdown书稿](chapters/不可见的亚洲_完整书稿.md) | 浏览器直接读，可检索、可勘误 |
-| PDF | [下载PDF](https://github.com/BruceLanLan/xuanxue-book/releases/download/v3.0/invisible-asia-illustrated-v3.pdf) | 150页图文精装版，适合电脑与打印 |
-| EPUB | [下载EPUB](https://github.com/BruceLanLan/xuanxue-book/releases/download/v3.0/invisible-asia-illustrated-v3.epub) | iPhone、Apple Books、微信读书、Kobo |
-| MOBI | [下载MOBI](https://github.com/BruceLanLan/xuanxue-book/releases/download/v3.0/invisible-asia-illustrated-v3.mobi) | Kindle设备与Kindle App |
-| AZW3 | [下载AZW3](https://github.com/BruceLanLan/xuanxue-book/releases/download/v3.0/invisible-asia-illustrated-v3.azw3) | Kindle Paperwhite、Oasis及新版Kindle |
-
-> 这是一份开放研究书稿。欢迎提交带有可核验出处的术语、年代、馆藏、书目与翻译勘误；涉及个人经验、活态社群或内部仪式的材料，请先明确说明是否允许引用。未经明确同意，不会公开使用私人故事。
-
-图像来源、许可和“档案图/创作性诠释插图”的使用边界见 [`research/第二部_图像来源表.md`](research/第二部_图像来源表.md)。欢迎通过 [Issues](https://github.com/BruceLanLan/xuanxue-book/issues) 或 X 私信 [@BruceBlue](https://x.com/BruceBlue) 反馈。最新版可在 [v3.0 Release](https://github.com/BruceLanLan/xuanxue-book/releases/tag/v3.0) 下载。
-
----
-
 ## 这本书是什么
 
 这不是一本"周易入门"或"风水常识"的泛泛之谈。
@@ -272,15 +248,5 @@
 *"气化一元，万法归宗。"*
 
 **如果这本书对你有启发，欢迎 ⭐ Star 支持**
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=brucelanlan%2Fxuanxue-book&type=timeline&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=brucelanlan/xuanxue-book&type=timeline&legend=top-left" />
- </picture>
-</a>
 
 </div>
